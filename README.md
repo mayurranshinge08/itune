@@ -1,16 +1,3 @@
-# itune
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-16 at 13 20 12" src="https://github.com/user-attachments/assets/13fae908-e70b-4cbe-a4e9-4e54b6672aaa" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-16 at 13 20 04" src="https://github.com/user-attachments/assets/827dc43f-b7a9-41c9-aae5-deadae3b7c18" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-16 at 13 19 59" src="https://github.com/user-attachments/assets/464e72a5-a930-4e3b-925f-b5545f3a660a" />
